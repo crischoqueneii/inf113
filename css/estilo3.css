@@ -1,0 +1,32 @@
+body{
+    background-color: #95A5A6;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.titulo{
+    font-size: 3.5rem;
+}
+.subtitulo1{
+    font-size: 3rem;
+}
+section{
+    text-align: left;
+    width:30%;
+}
+.celda1{
+    width: 50%;
+}
+div{
+    width: 46%;
+}
+.tablas{
+    position: absolute;
+    top: 0%;
+    left: 35%;
+}
+.definicion{
+    position: absolute;
+    top: 0%;
+    left: 68%;
+    width: 30%;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: #E5E8E8;
+    font-size: 1.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+section{
+    text-align: left;
+    width: 30%;
+}
+nav{
+    position: absolute;
+    top: 0%;
+    left: 34%;
+    width: 31%;
+}
+.parrafo2{
+    position: absolute;
+    top: 0%;
+    left: 67%;
+    width: 31%;
+}
